@@ -12,7 +12,7 @@ We'll create a phone book program in which first we use arrays to store phone re
 - Display
 - Exit
 
-![Phone book Operation](img/menu.png?raw=true)
+![Phone book Operation](img/menu.png)
 
 #### Insert
 ****
