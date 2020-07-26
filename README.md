@@ -12,11 +12,11 @@ We'll create a phone book program in which first we use arrays to store phone re
 - Display
 - Exit
 
-![Phone book Operation](https://github.com/Akshayrrao/Phone-book-using-dll/blob/master/img/menu.png?raw=true)
+![Phone book Operation](img/menu.png?raw=true)
 
 #### Insert
 ****
-Insert option will take the user input like Name , Phone number ,
+insert option will take the user input like Name , Phone number ,
 address and insert the data into the node.
 
 ![Insert](https://github.com/Akshayrrao/Phone-book-using-dll/blob/master/img/insert.png?raw=true)
