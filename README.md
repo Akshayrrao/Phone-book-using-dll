@@ -16,7 +16,7 @@ We'll create a phone book program in which first we use arrays to store phone re
 
 #### Insert
 ****
-insert option will take the user input like Name , Phone number ,
+Insert option will take the user input like Name , Phone number ,
 address and insert the data into the node.
 
 ![Insert](https://github.com/Akshayrrao/Phone-book-using-dll/blob/master/img/insert.png?raw=true)
