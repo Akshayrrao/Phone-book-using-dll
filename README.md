@@ -19,31 +19,31 @@ We'll create a phone book program in which first we use arrays to store phone re
 insert option will take the user input like Name , Phone number ,
 address and insert the data into the node.
 
-![Insert](https://github.com/Akshayrrao/Phone-book-using-dll/blob/master/img/insert.png?raw=true)
+![Insert](img/insert.png)
 
 #### Delete
 ****
 Delete option will take the user input like Name ,search for the data with same name in the node if it present them it will delete that perticular data from the node if data is not fow it will throw some Error message.
 
-![Delete](https://github.com/Akshayrrao/Phone-book-using-dll/blob/master/img/delete.png?raw=true)
+![Delete](img/delete.png)
 
 #### search
 ****
 Search option will take the user input like Name ,search for the data with same name in the node if it present them it will show found message or it will throw some Error message
 
-![search](https://github.com/Akshayrrao/Phone-book-using-dll/blob/master/img/search.png?raw=true)
+![search](img/search.png)
 
 #### Display
 ****
 Display option will Display all the contents in the node.
 
-![Display](https://github.com/Akshayrrao/Phone-book-using-dll/blob/master/img/display.png?raw=true)
+![Display](img/display.png)
 
 #### Exit
 ****
 Exit option will terminate the code.
 
-![Exit](https://github.com/Akshayrrao/Phone-book-using-dll/blob/master/img/invalid%20and%20exit.png?raw=true)
+![Exit](img/invalid%20and%20exit.png)
 
 
 
